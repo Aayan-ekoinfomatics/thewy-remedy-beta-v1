@@ -1,0 +1,203 @@
+{
+  "tab": [
+    {
+      "title": "Spice Blends",
+      "image": "",
+      "color": "#F2D4AE"
+    },
+    {
+      "title": "Flour Packs",
+      "image": "",
+      "color": "#FFF5D1"
+    },
+    {
+      "title": "Dosa Mix",
+      "image": "",
+      "color": "#F9E69D"
+    },
+    {
+      "title": "Rasam Soup",
+      "image": "",
+      "color": "#FDCAB5"
+    },
+    {
+      "title": "Noodles & Pasta",
+      "image": "",
+      "color": "#FDECC5"
+    },
+    {
+      "title": "Beverage Mixs",
+      "image": "",
+      "color": "#F1ECE2"
+    },
+    {
+      "title": "Health Mix",
+      "image": "",
+      "color": "#EEE0D5"
+    }
+  ],
+  "dual_banners": [
+    {
+      "image": "",
+      "title": ""
+    },
+    {
+      "image": "",
+      "title": ""
+    }
+  ],
+  "top_seller_products": [
+    {
+      "image": "",
+      "title": "Garlic Rasam Powder | Instant Mix ",
+      "weight": "250",
+      "price": "110.00"
+    },
+    {
+      "image": "",
+      "title": "Garlic Rasam Powder | Instant Mix ",
+      "weight": "250",
+      "price": "110.00"
+    },
+    {
+      "image": "",
+      "title": "Garlic Rasam Powder | Instant Mix ",
+      "weight": "250",
+      "price": "110.00"
+    },
+    {
+      "image": "",
+      "title": "Garlic Rasam Powder | Instant Mix ",
+      "weight": "250",
+      "price": "110.00"
+    }
+  ],
+  "small_carousal_images": [
+    {
+      "image": "",
+      "product_id": ""
+    },
+    {
+      "image": "",
+      "product_id": ""
+    },
+    {
+      "image": "",
+      "product_id": ""
+    },
+    {
+      "image": "",
+      "product_id": ""
+    },
+    {
+      "image": "",
+      "product_id": ""
+    },
+    {
+      "image": "",
+      "product_id": ""
+    },
+    {
+      "image": "",
+      "product_id": ""
+    },
+    {
+      "image": "",
+      "product_id": ""
+    }
+  ],
+  "large_carousal_images": [
+    {
+      "image": "",
+      "id": ""
+    },
+    {
+      "image": "",
+      "id": ""
+    },
+    {
+      "image": "",
+      "id": ""
+    },
+    {
+      "image": "",
+      "id": ""
+    },
+    {
+      "image": "",
+      "id": ""
+    }
+  ],
+  "single_product_details": {
+    "video_data": {
+      "video": "",
+      "title": "Make Best Dosa with us!"
+    },
+    "food": {
+      "title": "Kokum Rasam | Instant Mix",
+      "image": "",
+      "price": "110.0",
+      "weight": "250"
+    },
+    "blog": {
+      "title": "Our special recipe!",
+      "content": "Soaking the lentils, rice, making the batter, fermenting the batter calls for time, planning and some prep work. The steps are :",
+      "points": [
+        "Soaking rice and lentils",
+        "Making dosa batter in a blender or mixer-grinder",
+        "Fermenting dosa batter",
+        "Making dosa"
+      ]
+    }
+  },
+  "best_offers": {
+    "soup": {
+      "title": "Rasam & Soups",
+      "image": "",
+      "offer": "Get upto 10% OFF on",
+      "item": "Newly launched Soups"
+    },
+    "beverages": {
+      "image": "",
+      "offer": "20% off on",
+      "item": "Beverages"
+    },
+    "flour": {
+      "image": "",
+      "offer": "20% off on",
+      "item": "Spice Blend"
+    },
+    "spices": {
+      "image": "",
+      "offer": "20% off on",
+      "item": "Flour Packs"
+    },
+    "dosa_mix": {
+      "image": "",
+      "offer": "20% off on",
+      "item": "Dosa Mix"
+    }
+  },
+  "blogs": [
+    {
+      "image": "",
+      "title": "Our special recipe!",
+      "content": "Soaking the lentils, rice, making the batter, fermenting the batter calls for time, planning and some prep work. So for your ease of understanding, I have divided this step by step guide into 4 main parts:"
+    },
+    {
+      "image": "",
+      "title": "Our special recipe!",
+      "content": "Soaking the lentils, rice, making the batter, fermenting the batter calls for time, planning and some prep work. So for your ease of understanding, I have divided this step by step guide into 4 main parts:"
+    },
+    {
+      "image": "",
+      "title": "Our special recipe!",
+      "content": "Soaking the lentils, rice, making the batter, fermenting the batter calls for time, planning and some prep work. So for your ease of understanding, I have divided this step by step guide into 4 main parts:"
+    },
+    {
+      "image": "",
+      "title": "Our special recipe!",
+      "content": "Soaking the lentils, rice, making the batter, fermenting the batter calls for time, planning and some prep work. So for your ease of understanding, I have divided this step by step guide into 4 main parts:"
+    }
+  ]
+}

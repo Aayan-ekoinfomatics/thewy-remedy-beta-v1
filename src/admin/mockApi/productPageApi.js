@@ -1,0 +1,150 @@
+const product_data = {
+  titles: [
+    "Product ID",
+    "Product Name",
+    "Category",
+    "HSN",
+    "Stock",
+    "Status",
+    "Actions",
+  ],
+  content: [
+    {
+      product_id: 5446546,
+      product_name: "Rasam Powder",
+      category: "Rasam and Soups",
+      hsn: 155242154,
+      stock: 25,
+      status: "In stock",
+    },
+
+    {
+      product_id: 5446547,
+      product_name: "Multigrain Atta",
+      category: "Flour Packs",
+      hsn: 16625421,
+      stock: 25,
+      status: "Out of stock",
+    },
+    {
+      product_id: 5446548,
+      product_name: "Green Gram Dosa",
+      category: "Flour Packs",
+      hsn: 284572175,
+      stock: 30,
+      status: "In stock",
+    },
+    {
+      product_id: 5446546,
+      product_name: "Rasam Powder",
+      category: "Rasam and Soups",
+      hsn: 155242154,
+      stock: 25,
+      status: "In stock",
+    },
+
+    {
+      product_id: 5446547,
+      product_name: "Multigrain Atta",
+      category: "Flour Packs",
+      hsn: 16625421,
+      stock: 25,
+      status: "Out of stock",
+    },
+    {
+      product_id: 5446548,
+      product_name: "Green Gram Dosa",
+      category: "Flour Packs",
+      hsn: 284572175,
+      stock: 30,
+      status: "In stock",
+    },
+    {
+      product_id: 5446546,
+      product_name: "Rasam Powder",
+      category: "Rasam and Soups",
+      hsn: 155242154,
+      stock: 25,
+      status: "In stock",
+    },
+
+    {
+      product_id: 5446547,
+      product_name: "Multigrain Atta",
+      category: "Flour Packs",
+      hsn: 16625421,
+      stock: 25,
+      status: "Out of stock",
+    },
+    {
+      product_id: 5446548,
+      product_name: "Green Gram Dosa",
+      category: "Flour Packs",
+      hsn: 284572175,
+      stock: 30,
+      status: "In stock",
+    },
+    {
+      product_id: 5446546,
+      product_name: "Rasam Powder",
+      category: "Rasam and Soups",
+      hsn: 155242154,
+      stock: 25,
+      status: "In stock",
+    },
+
+    {
+      product_id: 5446547,
+      product_name: "Multigrain Atta",
+      category: "Flour Packs",
+      hsn: 16625421,
+      stock: 25,
+      status: "Out of stock",
+    },
+    {
+      product_id: 5446548,
+      product_name: "Green Gram Dosa",
+      category: "Flour Packs",
+      hsn: 284572175,
+      stock: 30,
+      status: "In stock",
+    },
+    {
+      product_id: 5446546,
+      product_name: "Rasam Powder",
+      category: "Rasam and Soups",
+      hsn: 155242154,
+      stock: 25,
+      status: "In stock",
+    },
+
+    {
+      product_id: 5446547,
+      product_name: "Multigrain Atta",
+      category: "Flour Packs",
+      hsn: 16625421,
+      stock: 25,
+      status: "Out of stock",
+    },
+    {
+      product_id: 5446548,
+      product_name: "Green Gram Dosa",
+      category: "Flour Packs",
+      hsn: 284572175,
+      stock: 30,
+      status: "In stock",
+    },
+  ],
+  status: [
+    {
+      name: "In stock",
+      color: "#00ac69",
+    },
+    {
+      name: "Out of stock",
+      color: "#FF0000",
+    },
+  ],
+};
+
+export default product_data;
